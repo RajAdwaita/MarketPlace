@@ -1,0 +1,29 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajAdwaita/MarketPlace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajAdwaita/MarketPlace/issues"
+  },
+  "homepage": "https://github.com/RajAdwaita/MarketPlace#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "ipfs-http-client": "^56.0.3",
+    "nvm": "^0.0.4",
+    "react-router-dom": "^6.3.0"
+  }
+}
